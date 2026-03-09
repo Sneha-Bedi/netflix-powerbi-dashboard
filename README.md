@@ -8,12 +8,6 @@ The aim of this project is to analyze Netflix data and create meaningful visuali
 
 ---
 
-## Dashboard Preview
-
-![Dashboard Preview](dashboard_preview.png)
-
----
-
 ## Dataset
 
 The dataset used for this project contains information about Netflix movies and TV shows such as title, genre, release year, country, and duration.
